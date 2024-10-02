@@ -1,6 +1,6 @@
 # Códigos que utilizei e como fiz
 --- 
-Fiz um código de currículo onde meu nome está em forma de <h1></h1>,que serve como título destacado para o meu currículo.
+Fiz um código de currículo onde meu nome está em forma de <h1></h1> que serve como título destacado para o meu currículo.
 
 # Informações Pessoais
 Utilizei várias tags <h2> para apresentar informações sobre mim, como:
