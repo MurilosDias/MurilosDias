@@ -11,7 +11,7 @@ Utilizei várias tags  para apresentar informações sobre mim, como:
 - Telefone
 - Email
 - Endereço
-- As tags "<h2>" funcionam como subtítulos, organizando o conteúdo de forma clara.
+- As tags h2 funcionam como subtítulos, organizando o conteúdo de forma clara.
 
 # Experiência Profissional
 Para listar minhas experiências e cursos, utilizei <li> dentro de <div>s. Isso ajuda a organizar a informação de forma legível.
